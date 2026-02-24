@@ -1,16 +1,17 @@
-## Hi there 👋
+## <img src="wave.gif" width='32' align="left"/> &nbsp;Hi, I'm Seth
 
-<!--
-**srgorelik/srgorelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Personal Website Badge](https://img.shields.io/badge/Portfolio-9effec?labelColor=4a4a4a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI2ZmZmZmZiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0yMjguOTIsNDkuNjlhOCw4LDAsMCwwLTYuODYtMS40NUwxNjAuOTMsNjMuNTIsOTkuNTgsMzIuODRhOCw4LDAsMCwwLTUuNTItLjZsLTY0LDE2QTgsOCwwLDAsMCwyNCw1NlYyMDBhOCw4LDAsMCwwLDkuOTQsNy43Nmw2MS4xMy0xNS4yOCw2MS4zNSwzMC42OEE4LjE1LDguMTUsMCwwLDAsMTYwLDIyNGE4LDgsMCwwLDAsMS45NC0uMjRsNjQtMTZBOCw4LDAsMCwwLDIzMiwyMDBWNTZBOCw4LDAsMCwwLDIyOC45Miw0OS42OVpNMTA0LDUyLjk0bDQ4LDI0VjIwMy4wNmwtNDgtMjRaTTQwLDYyLjI1bDQ4LTEydjEyNy41bC00OCwxMlptMTc2LDEzMS41LTQ4LDEyVjc4LjI1bDQ4LTEyWiI+PC9wYXRoPjwvc3ZnPg==)](https://www.sethgorelik.com)
+[![Woodwell Badge](https://img.shields.io/badge/Woodwell_Climate-FF5700?labelColor=4a4a4a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI2ZmZmZmZiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0yMzIsMjA4YTgsOCwwLDAsMS04LDhIMzJhOCw4LDAsMCwxLTgtOFY0OGE4LDgsMCwwLDEsMTYsMHY5NC4zN0w5MC43Myw5OGE4LDgsMCwwLDEsMTAuMDctLjM4bDU4LjgxLDQ0LjExTDIxOC43Myw5MGE4LDgsMCwxLDEsMTAuNTQsMTJsLTY0LDU2YTgsOCwwLDAsMS0xMC4wNy4zOEw5Ni4zOSwxMTQuMjksNDAsMTYzLjYzVjIwMEgyMjRBOCw4LDAsMCwxLDIzMiwyMDhaIj48L3BhdGg+PC9zdmc+)](https://www.woodwellclimate.org/staff/seth-gorelik/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?labelColor=4a4a4a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI2ZmZmZmZiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0yMTYsMjRINDBBMTYsMTYsMCwwLDAsMjQsNDBWMjE2YTE2LDE2LDAsMCwwLDE2LDE2SDIxNmExNiwxNiwwLDAsMCwxNi0xNlY0MEExNiwxNiwwLDAsMCwyMTYsMjRabTAsMTkySDQwVjQwSDIxNlYyMTZaTTk2LDExMnY2NGE4LDgsMCwwLDEtMTYsMFYxMTJhOCw4LDAsMCwxLDE2LDBabTg4LDI4djM2YTgsOCwwLDAsMS0xNiwwVjE0MGEyMCwyMCwwLDAsMC00MCwwdjM2YTgsOCwwLDAsMS0xNiwwVjExMmE4LDgsMCwwLDEsMTUuNzktMS43OEEzNiwzNiwwLDAsMSwxODQsMTQwWk0xMDAsODRBMTIsMTIsMCwxLDEsODgsNzIsMTIsMTIsMCwwLDEsMTAwLDg0WiI+PC9wYXRoPjwvc3ZnPg==)](https://www.linkedin.com/in/sethgorelik)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-34A853?labelColor=4a4a4a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI2ZmZmZmZiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0yNTEuNzYsODguOTRsLTEyMC02NGE4LDgsMCwwLDAtNy41MiwwbC0xMjAsNjRhOCw4LDAsMCwwLDAsMTQuMTJMMzIsMTE3Ljg3djQ4LjQyYTE1LjkxLDE1LjkxLDAsMCwwLDQuMDYsMTAuNjVDNDkuMTYsMTkxLjUzLDc4LjUxLDIxNiwxMjgsMjE2YTEzMCwxMzAsMCwwLDAsNDgtOC43NlYyNDBhOCw4LDAsMCwwLDE2LDBWMTk5LjUxYTExNS42MywxMTUuNjMsMCwwLDAsMjcuOTQtMjIuNTdBMTUuOTEsMTUuOTEsMCwwLDAsMjI0LDE2Ni4yOVYxMTcuODdsMjcuNzYtMTQuODFhOCw4LDAsMCwwLDAtMTQuMTJaTTEyOCwyMDBjLTQzLjI3LDAtNjguNzItMjEuMTQtODAtMzMuNzFWMTI2LjRsNzYuMjQsNDAuNjZhOCw4LDAsMCwwLDcuNTIsMEwxNzYsMTQzLjQ3djQ2LjM0QzE2My40LDE5NS42OSwxNDcuNTIsMjAwLDEyOCwyMDBabTgwLTMzLjc1YTk3LjgzLDk3LjgzLDAsMCwxLTE2LDE0LjI1VjEzNC45M2wxNi04LjUzWk0xODgsMTE4Ljk0bC0uMjItLjEzLTU2LTI5Ljg3YTgsOCwwLDAsMC03LjUyLDE0LjEyTDE3MSwxMjhsLTQzLDIyLjkzTDI1LDk2LDEyOCw0MS4wNywyMzEsOTZaIj48L3BhdGg+PC9zdmc+)](https://scholar.google.com/citations?user=aZZEKukAAAAJ)
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I map and quantify how carbon stored in forest biomass changes due to land use and climate change from regional to global scales, and where the potential exists for degraded forests to capture carbon from the atmosphere. I assemble, process, and analyze large (TB+) collections of varied geospatial data sets using high-performance cloud-computing resources and synthesize results into meaningful and compelling findings for a diverse audience, from various stakeholders and decision makers to the general public. My work has helped document the significant climate benefit that indigenous peoples and community-held lands provide via the protection, restoration, and sustainable use of forests across the world.
+
+### GitHub Stats
+
+<span>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgorelik&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgorelik&layout=compact&langs_count=8&theme=merko"/>
+</span>
