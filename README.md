@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm a geospatial data scientist specializing in remote sensing of forests. I map and quantify how carbon stored in forest biomass changes due to land use and climate change from regional to global scales, and where the potential exists for degraded forests to capture carbon from the atmosphere. I assemble, process, and analyze large (TB+) collections of varied geospatial data sets using high-performance cloud-computing resources and synthesize results into meaningful and compelling findings for a diverse audience, from various stakeholders and decision makers to the general public. My work has helped document the significant climate benefit that indigenous peoples and community-held lands provide via the protection, restoration, and sustainable use of forests across the world.
+I'm a geospatial data scientist specializing in remote sensing of forests. I map and quantify how carbon stored in forest biomass changes due to land use and climate change from regional to global scales, and where the potential exists for degraded forests to capture carbon from the atmosphere. I assemble, process, and analyze terabytes of varied geospatial data sets using high-performance cloud-computing resources and synthesize results into meaningful and compelling findings for a diverse audience, from various stakeholders and decision makers to the general public. My work has helped document the significant climate benefit that indigenous peoples and community-held lands provide via the protection, restoration, and sustainable use of forests across the world.
 
 ### GitHub Stats
 
