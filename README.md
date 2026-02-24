@@ -13,5 +13,5 @@ I'm a geospatial data scientist specializing in remote sensing of forests. I map
 
 <span>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgorelik&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgorelik&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgorelik&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=merko"/>
 </span>
