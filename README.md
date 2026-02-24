@@ -12,6 +12,6 @@ I map and quantify how carbon stored in forest biomass changes due to land use a
 ### GitHub Stats
 
 <span>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgorelik&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgorelik&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgorelik&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgorelik&layout=compact&langs_count=8&theme=merko"/>
 </span>
