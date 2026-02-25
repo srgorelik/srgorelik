@@ -9,18 +9,21 @@
 
 I'm a **geospatial data scientist** specializing in remote sensing of forests. I map and quantify how carbon stored in forest biomass changes due to land use and climate change from regional to global scales, and where the potential exists for degraded forests to capture carbon from the atmosphere. I assemble, process, and analyze terabytes of varied geospatial data sets using high-performance cloud-computing resources and synthesize results into meaningful and compelling findings for a diverse audience, from stakeholders and decision makers to the general public. My work has helped document the significant climate benefit that indigenous peoples and community-held lands provide via the protection, restoration, and sustainable use of forests across the world.
 
-<!--
 ### Interests
-<img src="satellite.svg" height="12" width="12">&nbsp; Remote Sensing and GIS\
-<img src="palette.svg" height="12" width="12">&nbsp; Cartography & Data Visualization\
-<img src="web-dev.svg" height="12" width="12">&nbsp; Web Development
--->
+
+<!-- note, wrapping <img/> tags in <picture></picture> prevents the automatic hyperlinking that GitHub adds to images -->
+<picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/layer-group.svg" height="14" width="14"/></picture>&nbsp; Remote Sensing and GIS\
+<picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/regular/map.svg" height="14" width="14"/></picture>&nbsp; Cartography and Data Visualization\
+<picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/laptop-code.svg" height="14" width="14"/></picture>&nbsp; Web Development
 
 ### My GitHub Stats
 
 <!-- themes i like: apprentice, react, nord, tokyonight, dark, algolia, nightowl -->
-
 <span>
-  <img height="200em" src="https://github-readme-stats-srgorelik.vercel.app/api?username=srgorelik&custom_title=Activity&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&border_radius=12&theme=gotham&card_width=330"/>
-  <img height="200em" src="https://github-readme-stats-srgorelik.vercel.app/api/top-langs/?username=srgorelik&custom_title=Languages&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide_rank=true&hide_border=true&border_radius=12&theme=gotham&card_width=321"/>
+  <picture>
+    <img height="200em" src="https://github-readme-stats-srgorelik.vercel.app/api?username=srgorelik&custom_title=Activity&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&border_radius=12&theme=gotham&card_width=330"/>
+  </picture>
+  <picture>
+    <img height="200em" src="https://github-readme-stats-srgorelik.vercel.app/api/top-langs/?username=srgorelik&custom_title=Languages&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide_rank=true&hide_border=true&border_radius=12&theme=gotham&card_width=321"/>
+  </picture>
 </span>
