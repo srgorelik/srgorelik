@@ -14,17 +14,17 @@ I'm a **geospatial data scientist** specializing in remote sensing of forests. I
 <!-- note, wrapping <img/> tags in <picture></picture> prevents the automatic hyperlinking that GitHub adds to images-->
 <div>
   <picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/layer-group.svg" width="14"/></picture>
-  &nbsp;Remote Sensing and GIS
+  Remote Sensing and GIS
 </div>
 
 <div>
   <picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/regular/map.svg" width="14"/></picture>
-  &nbsp;Cartography and Data Visualization
+  Cartography and Data Visualization
 </div>
 
 <div>
   <picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/laptop-code.svg" width="14"/></picture>
-  &nbsp;Web Development
+  Web Development
 </div>
 
 ### My GitHub Stats
