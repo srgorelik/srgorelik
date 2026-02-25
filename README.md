@@ -1,4 +1,4 @@
-## <img src="wave.gif" width='32' align="left"/> &nbsp;Hi, I'm Seth
+## <img src="wave.gif" width="32" align="left"/>&nbsp;Hi, I'm Seth
 
 [![Personal Website Badge](https://img.shields.io/badge/Portfolio-9effec?labelColor=4a4a4a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI2ZmZmZmZiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0yMjguOTIsNDkuNjlhOCw4LDAsMCwwLTYuODYtMS40NUwxNjAuOTMsNjMuNTIsOTkuNTgsMzIuODRhOCw4LDAsMCwwLTUuNTItLjZsLTY0LDE2QTgsOCwwLDAsMCwyNCw1NlYyMDBhOCw4LDAsMCwwLDkuOTQsNy43Nmw2MS4xMy0xNS4yOCw2MS4zNSwzMC42OEE4LjE1LDguMTUsMCwwLDAsMTYwLDIyNGE4LDgsMCwwLDAsMS45NC0uMjRsNjQtMTZBOCw4LDAsMCwwLDIzMiwyMDBWNTZBOCw4LDAsMCwwLDIyOC45Miw0OS42OVpNMTA0LDUyLjk0bDQ4LDI0VjIwMy4wNmwtNDgtMjRaTTQwLDYyLjI1bDQ4LTEydjEyNy41bC00OCwxMlptMTc2LDEzMS41LTQ4LDEyVjc4LjI1bDQ4LTEyWiI+PC9wYXRoPjwvc3ZnPg==)](https://www.sethgorelik.com)
 [![Woodwell Badge](https://img.shields.io/badge/Woodwell_Climate-FF5700?labelColor=4a4a4a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMzAwIiB4bWxuczpieD0iaHR0cHM6Ly9ib3h5LXN2Zy5jb20iPgogIDxkZWZzPgogICAgPGJ4OmV4cG9ydD4KICAgICAgPGJ4OmZpbGUgZm9ybWF0PSJzdmciPjwvYng6ZmlsZT4KICAgIDwvYng6ZXhwb3J0PgogIDwvZGVmcz4KICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgwLjc4NTcxNCwgMCwgMCwgMC43ODU3MTQsIDMyLjE0Mjg2NCwgMzIuMTQyODY4KSI+CiAgICA8cmVjdCB5PSIxMCIgd2lkdGg9IjI4MCIgaGVpZ2h0PSIyODAiIHN0eWxlPSJmaWxsOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDApOyBwYWludC1vcmRlcjogc3Ryb2tlOyBzdHJva2U6IHJnYigyNTUsIDI1NSwgMjU1KTsgc3Ryb2tlLXdpZHRoOiAyMHB4OyIgeD0iMTAiPjwvcmVjdD4KICAgIDxwYXRoIHN0eWxlPSJmaWxsOiBub25lOyBzdHJva2U6IHJnYigyNTUsIDI1NSwgMjU1KTsgc3Ryb2tlLXdpZHRoOiAyMHB4OyB0cmFuc2Zvcm0tb3JpZ2luOiA5LjQwNXB4IDE3LjY1cHg7IiBkPSJNIDEuNzU1IC0yMTkuODQgQyAxMzkuMzcxIC0yMjIuNTIgMjM5LjcwNiAtMTIwLjAxIDIzOC42NyAxNy4wNTUiIHRyYW5zZm9ybT0ibWF0cml4KDAsIDEsIC0xLCAwLCAwLjAwMDAwNCwgLTAuMDAwMDA5KSI+PC9wYXRoPgogIDwvZz4KPC9zdmc+)](https://www.woodwellclimate.org/staff/seth-gorelik/)
@@ -11,10 +11,21 @@ I'm a **geospatial data scientist** specializing in remote sensing of forests. I
 
 ### Interests
 
-<!-- note, wrapping <img/> tags in <picture></picture> prevents the automatic hyperlinking that GitHub adds to images -->
-<picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/layer-group.svg" height="14" width="14"/></picture>&nbsp; Remote Sensing and GIS\
-<picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/regular/map.svg" height="14" width="14"/></picture>&nbsp; Cartography and Data Visualization\
-<picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/laptop-code.svg" height="14" width="14"/></picture>&nbsp; Web Development
+<!-- note, wrapping <img/> tags in <picture></picture> prevents the automatic hyperlinking that GitHub adds to images-->
+<div>
+  <picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/layer-group.svg" width="14"/></picture>
+  &nbsp;Remote Sensing and GIS
+</div>
+
+<div>
+  <picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/regular/map.svg" width="14"/></picture>
+  &nbsp;Cartography and Data Visualization
+</div>
+
+<div>
+  <picture><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/svgs-full/solid/laptop-code.svg" width="14"/></picture>
+  &nbsp;Web Development
+</div>
 
 ### My GitHub Stats
 
