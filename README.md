@@ -16,9 +16,11 @@ I'm a **geospatial data scientist** specializing in remote sensing of forests. I
 <img src="web-dev.svg" height="12" width="12">&nbsp; Web Development
 -->
 
-### GitHub Stats
+### My GitHub Stats
+
+<!-- themes i like: apprentice, react, nord, tokyonight, dark, algolia, nightowl -->
 
 <span>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgorelik&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgorelik&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=merko"/>
+  <img height="200em" src="https://github-readme-stats-srgorelik.vercel.app/api?username=srgorelik&custom_title=Activity&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=gotham"/>
+  <img height="200em" src="https://github-readme-stats-srgorelik.vercel.app/api/top-langs/?username=srgorelik&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide_rank=true&theme=gotham"/>
 </span>
