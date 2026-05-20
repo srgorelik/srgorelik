@@ -15,17 +15,17 @@ I'm a **geospatial data scientist** specializing in remote sensing of forests. I
 <!-- btw, the color for the icons is #4DA889 -->
 <div>
   <picture><img src="img/layer-group-solid.svg" width="12"/></picture>
-  <span style='margin-left: 2px;'>Remote Sensing and GIS</span>
+  <span style='margin-left: 4px;'>Remote Sensing and GIS</span>
 </div>
 
 <div>
   <picture><img src="img/map-solid.svg" width="12"/></picture>
-  <span style='margin-left: 2px;'>Cartography and Data Visualization</span>
+  <span style='margin-left: 4px;'>Cartography and Data Visualization</span>
 </div>
 
 <div>
   <picture><img src="img/code-solid.svg" width="12"/></picture>
-  <span style='margin-left: 2px;'>Web Development</span>
+  <span style='margin-left: 4px;'>Web Development</span>
 </div>
 
 ### My GitHub Stats
