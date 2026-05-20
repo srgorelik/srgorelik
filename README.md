@@ -14,7 +14,7 @@ I'm a **geospatial data scientist** specializing in remote sensing of forests. I
 <!-- note, wrapping <img/> tags in <picture></picture> prevents the automatic hyperlinking that GitHub adds to images-->
 <!-- btw, the color for the icons is #4DA889 -->
 <div>
-  <picture><img src="layer-group-solid.svg" width="12"/></picture>
+  <picture><img src="img/layer-group-solid.svg" width="12"/></picture>
   <span style='margin-left: 2px;'>Remote Sensing and GIS</span>
 </div>
 
